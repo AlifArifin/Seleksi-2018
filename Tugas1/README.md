@@ -33,11 +33,11 @@ The program will fetch each national park's and it's flora and fauna and preproc
 ## Screenshots
 Execute Program:
 
-![alt text](https://github.com/rhaerma/Seleksi-2018/blob/master/Tugas1/screenshots/Scraping1.png "Scraping on 1st stage")
+![alt text](https://github.com/AlifArifin/Seleksi-2018/blob/master/Tugas1/screenshots/kode1.png "Scraping on 1st stage")
 
 Scraping Process:
 
-![alt text](https://github.com/rhaerma/Seleksi-2018/blob/master/Tugas1/screenshots/Scraping3.png "Scraping on process")
+![alt text](https://github.com/AlifArifin/Seleksi-2018/blob/master/Tugas1/screenshots/progress.png "Scraping on process")
 
 ## JSON Structure
 ```
