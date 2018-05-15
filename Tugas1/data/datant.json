@@ -1,0 +1,158 @@
+{
+    "name": "Baluran National Park",
+    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Golden_hour_at_bekol_savannah.jpg/284px-Golden_hour_at_bekol_savannah.jpg",
+    "location": "Situbondo Regency, East Java, Indonesia",
+    "nearest-city": "Situbondo",
+    "coordinates": {
+        "longitude": "114\u00b022\u2032E",
+        "latitude": "7\u00b050\u2032S"
+    },
+    "area": "250 km2 (97 sq mi)",
+    "established": "1980",
+    "visitors": "10,192 (in 2007)",
+    "governing-body": "Ministry of Environment and Forestry",
+    "website": "balurannationalpark.web.id",
+    "flora": [
+        {
+            "name": "Ziziphus mauritiana",
+            "image": "//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Ziziphus_mauritiana_fruit_2.jpg/220px-Ziziphus_mauritiana_fruit_2.jpg",
+            "kingdom": "Plantae",
+            "binomial-name": "Ziziphus mauritiana",
+            "url": "https://en.wikipedia.org/wiki/Ziziphus_mauritiana"
+        },
+        {
+            "name": "Ziziphus nummularia",
+            "image": "//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Ziziphus_nummularia5.jpg/220px-Ziziphus_nummularia5.jpg",
+            "kingdom": "Plantae",
+            "binomial-name": "Ziziphus nummularia",
+            "url": "https://en.wikipedia.org/wiki/Ziziphus_rotundifolia"
+        },
+        {
+            "name": "Tamarind",
+            "image": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Tamarindus_indica_pods.JPG/220px-Tamarindus_indica_pods.JPG",
+            "kingdom": "Plantae",
+            "binomial-name": "Tamarindus indica",
+            "url": "https://en.wikipedia.org/wiki/Tamarindus_indica"
+        },
+        {
+            "name": "Aleurites moluccanus",
+            "image": "//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Starr_020803-0119_Aleurites_moluccana.jpg/220px-Starr_020803-0119_Aleurites_moluccana.jpg",
+            "kingdom": "Plantae",
+            "binomial-name": "Aleurites moluccanus",
+            "url": "https://en.wikipedia.org/wiki/Aleurites_moluccanus"
+        },
+        {
+            "name": "Corypha utan",
+            "image": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CabbagePalm01.jpg/220px-CabbagePalm01.jpg",
+            "kingdom": "Plantae",
+            "binomial-name": "Corypha utan",
+            "url": "https://en.wikipedia.org/wiki/Corypha_utan"
+        }
+    ],
+    "fauna": [
+        {
+            "name": "Banteng",
+            "image": "//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bos_javanicus_javanicus.jpg/220px-Bos_javanicus_javanicus.jpg",
+            "kingdom": "Animalia",
+            "binomial-name": "Bos javanicus",
+            "status": "Endangered",
+            "url": "https://en.wikipedia.org/wiki/Banteng"
+        },
+        {
+            "name": "Sumatran dhole",
+            "image": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Sumatran_dhole.jpg/220px-Sumatran_dhole.jpg",
+            "kingdom": "Animalia",
+            "trinomial-name": "Cuon alpinus sumatrensis",
+            "status": "Endangered",
+            "url": "https://en.wikipedia.org/wiki/Sumatran_dhole"
+        },
+        {
+            "name": "Indian muntjac",
+            "image": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Barking_Deer_%28Muntiacus_muntjak%29_%288753624038%29.jpg/220px-Barking_Deer_%28Muntiacus_muntjak%29_%288753624038%29.jpg",
+            "kingdom": "Animalia",
+            "binomial-name": "Muntiacus muntjak",
+            "status": "Least Concern",
+            "url": "https://en.wikipedia.org/wiki/Indian_muntjac"
+        },
+        {
+            "name": "Java mouse-deer",
+            "image": "//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Tragulus_javanicus_jerusalem_zoo.jpg/220px-Tragulus_javanicus_jerusalem_zoo.jpg",
+            "kingdom": "Animalia",
+            "binomial-name": "Tragulus javanicus",
+            "status": "Data Deficient",
+            "url": "https://en.wikipedia.org/wiki/Java_mouse-deer"
+        },
+        {
+            "name": "Fishing cat",
+            "image": "//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Fishing_cat_in_San_Diego_Zoo.jpg/220px-Fishing_cat_in_San_Diego_Zoo.jpg",
+            "kingdom": "Animalia",
+            "binomial-name": "Prionailurus viverrinus",
+            "status": "Vulnerable",
+            "url": "https://en.wikipedia.org/wiki/Fishing_cat"
+        },
+        {
+            "name": "Javan leopard",
+            "image": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Panthera_pardus_close_up-2.jpg/220px-Panthera_pardus_close_up-2.jpg",
+            "kingdom": "Animalia",
+            "trinomial-name": "Panthera pardus melas",
+            "status": "Critically Endangered",
+            "url": "https://en.wikipedia.org/wiki/Javan_leopard"
+        },
+        {
+            "name": "Javan lutung",
+            "image": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ebony_Langur_Javan_Lutung_Trachypithecus_auratus_at_Bronx_Zoo_3.jpg/220px-Ebony_Langur_Javan_Lutung_Trachypithecus_auratus_at_Bronx_Zoo_3.jpg",
+            "kingdom": "Animalia",
+            "binomial-name": "Trachypithecus auratus",
+            "status": "Vulnerable",
+            "url": "https://en.wikipedia.org/wiki/Javan_lutung"
+        },
+        {
+            "name": "Green peafowl",
+            "image": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Green_Peafowl%2C_Hanoi.jpg/220px-Green_Peafowl%2C_Hanoi.jpg",
+            "kingdom": "Animalia",
+            "binomial-name": "Pavo muticus",
+            "status": "Endangered",
+            "url": "https://en.wikipedia.org/wiki/Green_peafowl"
+        },
+        {
+            "name": "Red junglefowl",
+            "image": "//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Red_Junglefowl_-_Thailand.jpg/220px-Red_Junglefowl_-_Thailand.jpg",
+            "kingdom": "Animalia",
+            "binomial-name": "Gallus gallus",
+            "status": "Least Concern",
+            "url": "https://en.wikipedia.org/wiki/Red_junglefowl"
+        },
+        {
+            "name": "Malabar pied hornbill",
+            "image": "//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Malabar_pied_hornbill_on_a_tree.jpg/220px-Malabar_pied_hornbill_on_a_tree.jpg",
+            "kingdom": "Animalia",
+            "binomial-name": "Anthracoceros coronatus",
+            "status": "Near Threatened",
+            "url": "https://en.wikipedia.org/wiki/Malabar_pied_hornbill"
+        },
+        {
+            "name": "Rhinoceros hornbill",
+            "image": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Buceros_rhinoceros_-Singapore_Zoo_-pair-8a.jpg/300px-Buceros_rhinoceros_-Singapore_Zoo_-pair-8a.jpg",
+            "kingdom": "Animalia",
+            "binomial-name": "Buceros rhinoceros",
+            "status": "Near Threatened",
+            "url": "https://en.wikipedia.org/wiki/Rhinoceros_hornbill"
+        },
+        {
+            "name": "Lesser adjutant",
+            "image": "//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Lesser_Adjutant_%2CYala_National_Park_.jpg/220px-Lesser_Adjutant_%2CYala_National_Park_.jpg",
+            "kingdom": "Animalia",
+            "binomial-name": "Leptoptilos javanicus",
+            "status": "Vulnerable",
+            "url": "https://en.wikipedia.org/wiki/Lesser_adjutant"
+        },
+        {
+            "name": "Javan tiger",
+            "image": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panthera_tigris_sondaica_01.jpg/220px-Panthera_tigris_sondaica_01.jpg",
+            "kingdom": "Animalia",
+            "trinomial-name": "Panthera tigris sondaica",
+            "status": "Extinct",
+            "url": "https://en.wikipedia.org/wiki/Javan_tiger"
+        }
+    ]
+}

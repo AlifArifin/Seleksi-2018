@@ -1,83 +1,109 @@
 <h1 align="center">
   <br>
-  Tugas 1 Seleksi Warga Basdat 2018
-  <br>
-  <br>
-</h1>
-
-<h2 align="center">
-  <br>
   Data Scraping
   <br>
   <br>
 </h2>
 
+This program scrapes from wikipedia [List of National Parks of Indonesia](https://en.wikipedia.org/wiki/List_of_national_parks_of_Indonesia). These National Parks is from all of Indonesia and it also save about the special flora and fauna.
 
-### Specifications
+## Specification
+The program will fetch each national park's and it's flora and fauna and preprocess it into JSON object. And the program will do the normalization job to the existing JSON file and build a normalized dataframe.
 
-1. Lakukan data scraping dari sebuah laman web untuk memeroleh data atau informasi tertentu __TANPA MENGGUNAKAN API__
+## Requirements
+1. Python 3.6
+2. BeautifulSoup4, to fetch the source code of the webpage. You can install it if you have pip
+    ```
+    $ pip install beautifulsoup4
+    ```
+3. Pandas, to normalize JSON object into dataframe
+    ```
+    $ pip install pandas
+    ```
+4. Internet connection to access the page
 
-2. Daftarkan judul topik yang akan dijadikan bahan data scraping pada spreadsheet berikut: [Topik Data Scraping](http://bit.ly/TopikDataScraping). Usahakan agar tidak ada peserta dengan topik yang sama. Akses edit ke spreadsheet akan ditutup tanggal 10 Mei 2018 pukul 20.00 WIB
+## How to Use
+1. Go to `Tugas1` directory
+2. Execute Makefile with command bellow. This command will execute program with default settings: scrape 1 page for each city.
+    ```
+    $ make
+    ```
+3. Your scrapping result will be saved to folder `data` which contains JSON object and its normalized form.
 
-3. Dalam mengerjakan tugas 1, calon warga basdat terlebih dahulu melakukan fork project github pada link berikut: https://github.com/wargabasdat/Seleksi-2018/Tugas1. Sebelum batas waktu pengumpulan berakhir, calon warga basdat harus sudah melakukan pull request dengan nama ```TUGAS_SELEKSI_1_[NIM]```
+## Screenshots
+Execute Program:
 
-4. Pada repository tersebut, calon warga basdat harus mengumpulkan file script dan json hasil data scraping. Repository terdiri dari folder src dan data dimana folder src berisi file script/kode yang __WELL DOCUMENTED dan CLEAN CODE__ sedangkan folder data berisi file json hasil scraper.
+![alt text](https://github.com/rhaerma/Seleksi-2018/blob/master/Tugas1/screenshots/Scraping1.png "Scraping on 1st stage")
 
-5. Peserta juga diminta untuk membuat Makefile sesuai template yang disediakan, sehingga program dengan gampang di-_build_, di-_run_, dan di-_clean_
+Scraping Process:
 
-``` Makefile
-all: clean build run
+![alt text](https://github.com/rhaerma/Seleksi-2018/blob/master/Tugas1/screenshots/Scraping3.png "Scraping on process")
 
-clean: # remove data and binary folder
-
-build: # compile to binary (if you use interpreter, then do not implement it)
-
-run: # run your binary
-
+## JSON Structure
+```
+{
+    "area": "250 km2 (97 sq mi)",
+    "coordinates": {
+        "latitude": "7\u00b050\u2032S",
+        "longitude": "114\u00b022\u2032E"
+    },
+    "established": "1980",
+    "fauna": [
+        {
+            "binomial-name": "Bos javanicus",
+            "image": "//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bos_javanicus_javanicus.jpg/220px-Bos_javanicus_javanicus.jpg",
+            "kingdom": "Animalia",
+            "name": "Banteng",
+            "status": "Endangered",
+            "url": "https://en.wikipedia.org/wiki/Banteng"
+        },
+        .
+        .
+        {
+            "image": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panthera_tigris_sondaica_01.jpg/220px-Panthera_tigris_sondaica_01.jpg",
+            "kingdom": "Animalia",
+            "name": "Javan tiger",
+            "status": "Extinct",
+            "trinomial-name": "Panthera tigris sondaica",
+            "url": "https://en.wikipedia.org/wiki/Javan_tiger"
+        }
+    ],
+    "flora": [
+        {
+            "binomial-name": "Ziziphus mauritiana",
+            "image": "//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Ziziphus_mauritiana_fruit_2.jpg/220px-Ziziphus_mauritiana_fruit_2.jpg",
+            "kingdom": "Plantae",
+            "name": "Ziziphus mauritiana",
+            "url": "https://en.wikipedia.org/wiki/Ziziphus_mauritiana"
+        },
+        .
+        .
+        {
+            "binomial-name": "Tamarindus indica",
+            "image": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Tamarindus_indica_pods.JPG/220px-Tamarindus_indica_pods.JPG",
+            "kingdom": "Plantae",
+            "name": "Tamarind",
+            "url": "https://en.wikipedia.org/wiki/Tamarindus_indica"
+        }
+    ],
+    "governing-body": "Ministry of Environment and Forestry",
+    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Golden_hour_at_bekol_savannah.jpg/284px-Golden_hour_at_bekol_savannah.jpg",
+    "location": "Situbondo Regency, East Java, Indonesia",
+    "name": "Baluran National Park",
+    "nearest-city": "Situbondo",
+    "visitors": "10,192 (in 2007)",
+    "website": "balurannationalpark.web.id"
+}
 ```
 
-6. Deadline pengumpulan tugas adalah __15 Mei 2018 Pukul 23.59__
+## References
+1. [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+2. [Urllib](https://docs.python.org/3/library/urllib.html)
+3. [Pandas](https://github.com/pandas-dev/pandas)
 
-7. Tugas 1 akan didemokan oleh masing-masing calon warga basdat
-
-8. Demo tugas mencakup keseluruhan proses data scraping hingga memeroleh data sesuai dengan yang dikumpulkan pada Tugas 1
-
-9. Hasil data scraping ini nantinya akan digunakan sebagai bahan tugas analisis dan visualisasi data
-
-10. Sebagai referensi untuk mengenal data scraping, asisten menyediakan dokumen "Short Guidance To Data Scraping" yang dapat diakses pada link berikut: [Data Scraping Guidance](bit.ly/DataScrapingGuidance)
-
-11. Tambahkan juga gitignore pada file atau folder yang tidak perlu di upload, __NB : BINARY TIDAK DIUPLOAD__
-
-12. JSON harus dinormalisasi dan harus di-_preprocessing_
-```
-Preprocessing contohnya :
-- Cleaning
-- Parsing
-- Transformation
-- dan lainnya
-```
-
-13. Berikan README yang __WELL DOCUMENTED__ dengan cara __override__ file README.md ini. README harus memuat minimal konten :
-```
-- Description
-- Specification
-- How to use
-- JSON Structure
-- Screenshot program (di-upload pada folder screenshots, di-upload file image nya, dan ditampilkan di dalam README)
-- Reference (Library used, etc)
-- Author
-```
-
-<h1 align="center">
+## Author
+<h4 align="center">
   <br>
-  Selamat BerEksplorasi!
+    Muhammad Alif Arifin - 13516078
   <br>
-  <br>
-</h1>
-
-<p align="center">
-  <br>
-  Basdat Industries - Lab Basdat 2018
-  <br>
-  <br>
-</p>
+</h4>

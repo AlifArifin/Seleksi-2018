@@ -1,0 +1,395 @@
+[
+    {
+        "name": "Teluk Cenderawasih National Park",
+        "image": "//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Papua_Locator_Topography.png/250px-Papua_Locator_Topography.png",
+        "location": "West Papua, Indonesia",
+        "nearest-city": "Manokwari",
+        "coordinates": {
+            "longitude": "134\u00b038\u2032E",
+            "latitude": "2\u00b030\u2032S"
+        },
+        "area": "14,535 km ",
+        "established": "2002",
+        "governing-body": "Ministry of Forestry",
+        "flora": [
+            {
+                "name": "Nypa fruticans",
+                "image": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Nipa_palms.jpg/220px-Nipa_palms.jpg",
+                "kingdom": "Plantae",
+                "binomial-name": "Nypa fruticans",
+                "status": "Least Concern",
+                "url": "https://en.wikipedia.org/wiki/Nypa_fruticans"
+            },
+            {
+                "name": "Metroxylon sagu",
+                "image": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/1989.05-086-27atp_Sago_palm%28Metroxylon_sagu%29%28if%28div_stages%29%2Cit_i-s%29_Waipirit%28W.Seram%2CMaluku%29%2CID_sat13may1989.jpg/220px-1989.05-086-27atp_Sago_palm%28Metroxylon_sagu%29%28if%28div_stages%29%2Cit_i-s%29_Waipirit%28W.Seram%2CMaluku%29%2CID_sat13may1989.jpg",
+                "kingdom": "Plantae",
+                "binomial-name": "Metroxylon sagu",
+                "url": "https://en.wikipedia.org/wiki/Metroxylon_sagu"
+            },
+            {
+                "name": "Casuarina equisetifolia",
+                "image": "//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Casuarina_equesitifolia_tree.jpg/220px-Casuarina_equesitifolia_tree.jpg",
+                "kingdom": "Plantae",
+                "binomial-name": "Casuarina equisetifolia",
+                "url": "https://en.wikipedia.org/wiki/Casuarina_equisetifolia"
+            },
+            {
+                "name": "Terminalia catappa",
+                "image": "//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Terminalia_catappa_%28fruit%29.jpg/220px-Terminalia_catappa_%28fruit%29.jpg",
+                "kingdom": "Plantae",
+                "binomial-name": "Terminalia catappa",
+                "url": "https://en.wikipedia.org/wiki/Terminalia_catappa"
+            }
+        ],
+        "fauna": [
+            {
+                "name": "Blue coral",
+                "image": "//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Heliopora.JPG/220px-Heliopora.JPG",
+                "kingdom": "Animalia",
+                "status": "Vulnerable",
+                "url": "https://en.wikipedia.org/wiki/Blue_coral"
+            },
+            {
+                "name": "Whale shark",
+                "image": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Similan_Dive_Center_-_great_whale_shark.jpg/220px-Similan_Dive_Center_-_great_whale_shark.jpg",
+                "kingdom": "Animalia",
+                "binomial-name": "Rhincodon typus",
+                "status": "Endangered",
+                "url": "https://en.wikipedia.org/wiki/Whale_shark"
+            },
+            {
+                "name": "Charonia tritonis",
+                "image": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Reef0666_-_Flickr_-_NOAA_Photo_Library.jpg/220px-Reef0666_-_Flickr_-_NOAA_Photo_Library.jpg",
+                "kingdom": "Animalia",
+                "binomial-name": "Charonia tritonis",
+                "url": "https://en.wikipedia.org/wiki/Charonia_tritonis"
+            },
+            {
+                "name": "Giant clam",
+                "image": "//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Giant_clam_or_Tridacna_gigas.jpg/220px-Giant_clam_or_Tridacna_gigas.jpg",
+                "kingdom": "Animalia",
+                "binomial-name": "Tridacna (Tridacna) gigas",
+                "status": "Vulnerable",
+                "url": "https://en.wikipedia.org/wiki/Giant_clam"
+            },
+            {
+                "name": "Hawksbill sea turtle",
+                "image": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Hawksbill_turtle_off_the_coast_of_Saba.jpg/220px-Hawksbill_turtle_off_the_coast_of_Saba.jpg",
+                "kingdom": "Animalia",
+                "binomial-name": "Eretmochelys imbricata",
+                "status": "Critically Endangered",
+                "url": "https://en.wikipedia.org/wiki/Hawksbill_turtle"
+            },
+            {
+                "name": "Green sea turtle",
+                "image": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Green_turtle_swimming_over_coral_reefs_in_Kona.jpg/220px-Green_turtle_swimming_over_coral_reefs_in_Kona.jpg",
+                "kingdom": "Animalia",
+                "binomial-name": "Chelonia mydas",
+                "status": "Endangered",
+                "url": "https://en.wikipedia.org/wiki/Green_turtle"
+            },
+            {
+                "name": "Olive ridley sea turtle",
+                "image": "//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Lepidochelys_olivacea.jpg/220px-Lepidochelys_olivacea.jpg",
+                "kingdom": "Animalia",
+                "binomial-name": "Lepidochelys olivacea",
+                "status": "Vulnerable",
+                "url": "https://en.wikipedia.org/wiki/Olive_Ridley"
+            },
+            {
+                "name": "Leatherback sea turtle",
+                "image": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Leatherback_sea_turtle_Tinglar%2C_USVI_%285839996547%29.jpg/220px-Leatherback_sea_turtle_Tinglar%2C_USVI_%285839996547%29.jpg",
+                "kingdom": "Animalia",
+                "binomial-name": "Dermochelys coriacea",
+                "status": "Vulnerable",
+                "url": "https://en.wikipedia.org/wiki/Leatherback_turtle"
+            },
+            {
+                "name": "Dugong",
+                "image": "//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Dugong.JPG/220px-Dugong.JPG",
+                "kingdom": "Animalia",
+                "binomial-name": "Dugong dugon",
+                "status": "Vulnerable",
+                "url": "https://en.wikipedia.org/wiki/Dugong"
+            },
+            {
+                "name": "Blue whale",
+                "image": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg/220px-Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg",
+                "kingdom": "Animalia",
+                "binomial-name": "Balaenoptera musculus",
+                "status": "Endangered",
+                "url": "https://en.wikipedia.org/wiki/Blue_whale"
+            }
+        ]
+    },
+    {
+        "name": "Ujung Kulon National Park",
+        "image": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Ujung_Kulon_National_Park%2C_2014.jpg/284px-Ujung_Kulon_National_Park%2C_2014.jpg",
+        "location": "Banten, Java, Indonesia",
+        "nearest-city": "Cilegon",
+        "coordinates": {
+            "longitude": "105\u00b020\u20321\u2033E",
+            "latitude": "6\u00b044\u203248\u2033S"
+        },
+        "area": "122,956 acres (497.59 km2)",
+        "established": "February 26, 1992 (1992-02-26)",
+        "visitors": "2,385; about 12,000 in 2014. (in 2007)",
+        "governing-body": "Ministry of Environment and Forestry",
+        "world-heritage-site": "1991",
+        "website": "ujungkulon.org",
+        "criteria": "Natural: vii, x",
+        "reference": "608",
+        "inscription": "1991 (15th Session)",
+        "flora": [
+            {
+                "name": "Chromolaena odorata",
+                "image": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Chromolaena_odorata_by_Ashasathees.jpg/220px-Chromolaena_odorata_by_Ashasathees.jpg",
+                "kingdom": "Plantae",
+                "binomial-name": "Chromolaena odorata",
+                "url": "https://en.wikipedia.org/wiki/Chromolaena_odorata"
+            }
+        ],
+        "fauna": [
+            {
+                "name": "Javan rhinoceros",
+                "image": "//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Rhinoceros_sondaicus_in_London_Zoo.jpg/240px-Rhinoceros_sondaicus_in_London_Zoo.jpg",
+                "kingdom": "Animalia",
+                "binomial-name": "Rhinoceros sondaicus",
+                "status": "Critically Endangered",
+                "url": "https://en.wikipedia.org/wiki/Javan_rhinoceros"
+            },
+            {
+                "name": "Banteng",
+                "image": "//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bos_javanicus_javanicus.jpg/220px-Bos_javanicus_javanicus.jpg",
+                "kingdom": "Animalia",
+                "binomial-name": "Bos javanicus",
+                "status": "Endangered",
+                "url": "https://en.wikipedia.org/wiki/Banteng"
+            },
+            {
+                "name": "Silvery gibbon",
+                "image": "//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Silbergibbon_mit_Nachwuchs.jpg/220px-Silbergibbon_mit_Nachwuchs.jpg",
+                "kingdom": "Animalia",
+                "binomial-name": "Hylobates moloch",
+                "status": "Endangered",
+                "url": "https://en.wikipedia.org/wiki/Silvery_gibbon"
+            },
+            {
+                "name": "Javan lutung",
+                "image": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ebony_Langur_Javan_Lutung_Trachypithecus_auratus_at_Bronx_Zoo_3.jpg/220px-Ebony_Langur_Javan_Lutung_Trachypithecus_auratus_at_Bronx_Zoo_3.jpg",
+                "kingdom": "Animalia",
+                "binomial-name": "Trachypithecus auratus",
+                "status": "Vulnerable",
+                "url": "https://en.wikipedia.org/wiki/Javan_lutung"
+            },
+            {
+                "name": "Crab-eating macaque",
+                "image": "//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ngarai_Sianok_sumatran_monkey.jpg/220px-Ngarai_Sianok_sumatran_monkey.jpg",
+                "kingdom": "Animalia",
+                "binomial-name": "Macaca fascicularis",
+                "status": "Least Concern",
+                "url": "https://en.wikipedia.org/wiki/Crab-eating_macaque"
+            },
+            {
+                "name": "Javan leopard",
+                "image": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Panthera_pardus_close_up-2.jpg/220px-Panthera_pardus_close_up-2.jpg",
+                "kingdom": "Animalia",
+                "trinomial-name": "Panthera pardus melas",
+                "status": "Critically Endangered",
+                "url": "https://en.wikipedia.org/wiki/Javan_leopard"
+            },
+            {
+                "name": "Sumatran dhole",
+                "image": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Sumatran_dhole.jpg/220px-Sumatran_dhole.jpg",
+                "kingdom": "Animalia",
+                "trinomial-name": "Cuon alpinus sumatrensis",
+                "status": "Endangered",
+                "url": "https://en.wikipedia.org/wiki/Sumatran_dhole"
+            },
+            {
+                "name": "Java mouse-deer",
+                "image": "//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Tragulus_javanicus_jerusalem_zoo.jpg/220px-Tragulus_javanicus_jerusalem_zoo.jpg",
+                "kingdom": "Animalia",
+                "binomial-name": "Tragulus javanicus",
+                "status": "Data Deficient",
+                "url": "https://en.wikipedia.org/wiki/Java_mouse-deer"
+            },
+            {
+                "name": "Javan rusa",
+                "image": "//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Javan_Deer_couple_-_Baluran_NP_-_East_Java_%2829505339513%29.jpg/220px-Javan_Deer_couple_-_Baluran_NP_-_East_Java_%2829505339513%29.jpg",
+                "kingdom": "Animalia",
+                "binomial-name": "Rusa timorensis",
+                "status": "Vulnerable",
+                "url": "https://en.wikipedia.org/wiki/Javan_rusa"
+            },
+            {
+                "name": "Smooth-coated otter",
+                "image": "//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Smooth-coated_Otter_%2814157590954%29.jpg/220px-Smooth-coated_Otter_%2814157590954%29.jpg",
+                "kingdom": "Animalia",
+                "binomial-name": "Lutrogale perspicillata",
+                "status": "Vulnerable",
+                "url": "https://en.wikipedia.org/wiki/Smooth-coated_otter"
+            },
+            {
+                "name": "False gharial",
+                "image": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Tomistoma_schlegelii_false_gharial_LA_zoo_03.jpg/250px-Tomistoma_schlegelii_false_gharial_LA_zoo_03.jpg",
+                "kingdom": "Animalia",
+                "binomial-name": "Tomistoma schlegelii",
+                "status": "Vulnerable",
+                "url": "https://en.wikipedia.org/wiki/False_gharial"
+            },
+            {
+                "name": "Saltwater crocodile",
+                "image": "//upload.wikimedia.org/wikipedia/commons/thumb/4/43/SaltwaterCrocodile%28%27Maximo%27%29.jpg/220px-SaltwaterCrocodile%28%27Maximo%27%29.jpg",
+                "kingdom": "Animalia",
+                "binomial-name": "Crocodylus porosus",
+                "status": "Least Concern",
+                "url": "https://en.wikipedia.org/wiki/Saltwater_crocodile"
+            },
+            {
+                "name": "Javan tiger",
+                "image": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panthera_tigris_sondaica_01.jpg/220px-Panthera_tigris_sondaica_01.jpg",
+                "kingdom": "Animalia",
+                "trinomial-name": "Panthera tigris sondaica",
+                "status": "Extinct",
+                "url": "https://en.wikipedia.org/wiki/Javan_tiger"
+            },
+            {
+                "name": "Javan tiger",
+                "image": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panthera_tigris_sondaica_01.jpg/220px-Panthera_tigris_sondaica_01.jpg",
+                "kingdom": "Animalia",
+                "trinomial-name": "Panthera tigris sondaica",
+                "status": "Extinct",
+                "url": "https://en.wikipedia.org/wiki/Javan_tiger"
+            }
+        ]
+    },
+    {
+        "name": "Batang Gadis National Park",
+        "image": "//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Sorikmarapi.jpg/284px-Sorikmarapi.jpg",
+        "location": "North Sumatra Province, Indonesia",
+        "nearest-city": "Panyabungan",
+        "coordinates": {
+            "longitude": "99\u00b023\u2032E",
+            "latitude": "0\u00b059\u2032N"
+        },
+        "area": "1,080 km ",
+        "established": "2004",
+        "governing-body": "Ministry of Forestry",
+        "flora": [],
+        "fauna": [
+            {
+                "name": "Sumatran tiger",
+                "image": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Sumatran_Tiger_Berlin_Tierpark.jpg/220px-Sumatran_Tiger_Berlin_Tierpark.jpg",
+                "kingdom": "Animalia",
+                "trinomial-name": "Panthera tigris sondaica",
+                "status": "Critically Endangered",
+                "url": "https://en.wikipedia.org/wiki/Sumatran_tiger"
+            },
+            {
+                "name": "Malayan tapir",
+                "image": "//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Schabrackentapir_Tapirus_indicus_Tiergarten-Nuernberg-1.jpg/220px-Schabrackentapir_Tapirus_indicus_Tiergarten-Nuernberg-1.jpg",
+                "kingdom": "Animalia",
+                "binomial-name": "Tapirus indicus",
+                "status": "Endangered",
+                "url": "https://en.wikipedia.org/wiki/Malayan_tapir"
+            },
+            {
+                "name": "Malayan porcupine",
+                "image": "//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Hystrix_brachyura%2C_Malayan_porcupine.jpg/220px-Hystrix_brachyura%2C_Malayan_porcupine.jpg",
+                "kingdom": "Animalia",
+                "binomial-name": "Hystrix brachyura",
+                "status": "Least Concern",
+                "url": "https://en.wikipedia.org/wiki/Malayan_porcupine"
+            },
+            {
+                "name": "Asian golden cat",
+                "image": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Asian_Golden_cat.jpg/220px-Asian_Golden_cat.jpg",
+                "kingdom": "Animalia",
+                "binomial-name": "Catopuma temminckii",
+                "status": "Near Threatened",
+                "url": "https://en.wikipedia.org/wiki/Asian_golden_cat"
+            },
+            {
+                "name": "Leopard cat",
+                "image": "//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Prionailurus_bengalensis_bengalensis_2-D%C3%A9coupe.JPG/220px-Prionailurus_bengalensis_bengalensis_2-D%C3%A9coupe.JPG",
+                "kingdom": "Animalia",
+                "binomial-name": "Prionailurus bengalensis",
+                "status": "Least Concern",
+                "url": "https://en.wikipedia.org/wiki/Leopard_cat"
+            },
+            {
+                "name": "Indian muntjac",
+                "image": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Barking_Deer_%28Muntiacus_muntjak%29_%288753624038%29.jpg/220px-Barking_Deer_%28Muntiacus_muntjak%29_%288753624038%29.jpg",
+                "kingdom": "Animalia",
+                "binomial-name": "Muntiacus muntjak",
+                "status": "Least Concern",
+                "url": "https://en.wikipedia.org/wiki/Indian_muntjac"
+            },
+            {
+                "name": "Java mouse-deer",
+                "image": "//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Tragulus_javanicus_jerusalem_zoo.jpg/220px-Tragulus_javanicus_jerusalem_zoo.jpg",
+                "kingdom": "Animalia",
+                "binomial-name": "Tragulus javanicus",
+                "status": "Data Deficient",
+                "url": "https://en.wikipedia.org/wiki/Java_mouse-deer"
+            },
+            {
+                "name": "Binturong",
+                "image": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Binturong_in_Overloon.jpg/220px-Binturong_in_Overloon.jpg",
+                "kingdom": "Animalia",
+                "binomial-name": "Arctictis binturong",
+                "status": "Vulnerable",
+                "url": "https://en.wikipedia.org/wiki/Binturong"
+            },
+            {
+                "name": "Sun bear",
+                "image": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Sitting_sun_bear.jpg/220px-Sitting_sun_bear.jpg",
+                "kingdom": "Animalia",
+                "binomial-name": "Helarctos malayanus",
+                "status": "Vulnerable",
+                "url": "https://en.wikipedia.org/wiki/Sun_bear"
+            },
+            {
+                "name": "Sambar deer",
+                "image": "//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Sambar_%28Cervus_unicolor_unicolor%29_male.jpg/220px-Sambar_%28Cervus_unicolor_unicolor%29_male.jpg",
+                "kingdom": "Animalia",
+                "binomial-name": "Rusa unicolor",
+                "status": "Vulnerable",
+                "url": "https://en.wikipedia.org/wiki/Sambar_deer"
+            },
+            {
+                "name": "Long-nosed horned frog",
+                "image": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Megophrys.nasuta.7034.jpg/220px-Megophrys.nasuta.7034.jpg",
+                "kingdom": "Animalia",
+                "status": "Least Concern",
+                "url": "https://en.wikipedia.org/wiki/Long-nosed_horned_frog"
+            },
+            {
+                "name": "Salvadori's pheasant",
+                "image": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Salvadoris_Pheasant.jpg/220px-Salvadoris_Pheasant.jpg",
+                "kingdom": "Animalia",
+                "binomial-name": "Lophura inornata",
+                "status": "Near Threatened",
+                "url": "https://en.wikipedia.org/wiki/Salvadori%27s_pheasant"
+            },
+            {
+                "name": "Schneider's pitta",
+                "image": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Naturalis_Biodiversity_Center_-_RMNH.AVES.121342_-_Pitta_schneideri_Hartert%2C_1909_-_Pittidae_-_bird_skin_specimen.jpeg/220px-Naturalis_Biodiversity_Center_-_RMNH.AVES.121342_-_Pitta_schneideri_Hartert%2C_1909_-_Pittidae_-_bird_skin_specimen.jpeg",
+                "kingdom": "Animalia",
+                "binomial-name": "Hydrornis schneideri",
+                "status": "Vulnerable",
+                "url": "https://en.wikipedia.org/wiki/Schneider%27s_pitta"
+            },
+            {
+                "name": "Sumatran tiger",
+                "image": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Sumatran_Tiger_Berlin_Tierpark.jpg/220px-Sumatran_Tiger_Berlin_Tierpark.jpg",
+                "kingdom": "Animalia",
+                "trinomial-name": "Panthera tigris sondaica",
+                "status": "Critically Endangered",
+                "url": "https://en.wikipedia.org/wiki/Sumatran_tiger"
+            }
+        ]
+    }
+]
